@@ -12,6 +12,7 @@ The program takes raw OCR invoice records, normalizes valid values, detects dupl
 - `invoice_processor.py` — code implementation
 - `test_invoice_processor.py` — automated tests using Python's built-in `unittest`
 - `thoughts.md` — assumptions, edge cases, and AI usage
+- Conversation with ChatGPT: https://chatgpt.com/share/6a74e8c0-2e10-83eb-b1ed-42086de0d380
 
 ## Requirements
 
