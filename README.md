@@ -9,7 +9,7 @@ The program takes raw OCR invoice records, normalizes valid values, detects dupl
 
 ## Files
 
-- `invoice_processor.py` — main implementation and sample data
+- `invoice_processor.py` — code implementation
 - `test_invoice_processor.py` — automated tests using Python's built-in `unittest`
 - `thoughts.md` — assumptions, edge cases, and AI usage
 
@@ -34,7 +34,7 @@ python -m unittest test_invoice_processor.py
 Expected result:
 
 ```text
-Ran 11 tests
+Ran 34 tests
 OK
 ```
 
