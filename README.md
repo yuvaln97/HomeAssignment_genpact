@@ -34,7 +34,7 @@ python -m unittest test_invoice_processor.py
 Expected result:
 
 ```text
-Ran 34 tests
+Ran 17 tests
 OK
 ```
 
